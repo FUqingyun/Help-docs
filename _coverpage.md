@@ -7,4 +7,4 @@
 [![stars](https://badgen.net/github/stars/Bistu-OSSDT-2022/13-wangxf-wuzf/?color=red)](https://github.com/Bistu-OSSDT-2022/13-wangxf-wuzf)
 
 [GitHub](https://github.com/Bistu-OSSDT-2022/13-wangxf-wuzf/)
-[开始阅读](?id=headline)
+[开始阅读](?id=游戏指南)
