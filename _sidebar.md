@@ -1,3 +1,3 @@
 - 导航栏
-    - [详细介绍](zh-cn/README.md)
-    - [实机画面](zh-cn/)
+    - [详细介绍](README.md)
+    - [实机画面](image.md)
